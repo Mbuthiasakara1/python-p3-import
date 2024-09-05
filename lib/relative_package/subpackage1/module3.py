@@ -1,2 +1,2 @@
 def function1():
-    print('Function 1 from module3')
+    print('hii inatoka from module3')
